@@ -1,5 +1,3 @@
 Hello everyone!
 
-Delete (hide) this line.
-
 Some more text.
